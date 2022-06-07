@@ -1,0 +1,100 @@
+footer {
+    background: var(--color-primary);
+    padding: 3rem 0;
+    text-align: center;
+    font-size: 0.9rem;
+    margin-top: 7rem;
+}
+
+footer a {
+    color: var(--color-bg)
+}
+
+.footer__logo {
+    font-size: 2rem;
+    font-weight: 500;
+    margin-bottom: 2rem;
+    display: inline-block;
+}
+
+.my__logo {
+    display:inline-flex;
+    justify-content: sp;
+}
+
+.my_logo_container {
+    margin-bottom: -5%;
+}
+
+.footer__logo:hover {
+    color: var(--color-primary-variant);
+}
+
+.permalinks {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    margin: 0 auto 3rem;
+}
+
+.permalinks a:hover {
+    color: var(--color-bg-variant);
+    font-style: oblique;
+    text-decoration: underline;
+}
+
+.footer__socials {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-bottom: 4rem;
+}
+
+.footer__socials a {
+    background: var(--color-bg);
+    color: var(--color-white);
+    padding: 0.8rem;
+    border-radius: 0.7rem;
+    display: flex;
+    border: 1px solid transparent;
+}
+
+.footer__socials a:hover {
+    background: var(--color-primary-variant);
+    color: var(--color-bg);
+    border-color: var(--color-bg);
+}
+
+.footer__copyright {
+    margin-bottom: 4rem;
+    color: var(--color-bg);
+}
+
+.my__logo {
+    max-width: 20%;
+}
+
+.AJ:hover {
+    color: var(--color-bg-variant);
+    font-style: oblique;
+    text-decoration: underline;
+}
+
+/* =================== MEDIA Queries (Small Devices) ===================== */
+
+@media screen and (max-width: 600px) { 
+    footer {
+        margin-top: 400px;
+    }
+
+    .permalinks {
+        flex-direction: column;
+        gap: 1.5rem;
+    }
+
+    .footer__socials {
+        margin-bottom: 2.6rem;
+    }
+
+}
