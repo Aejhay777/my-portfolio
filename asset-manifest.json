@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.a01891be.css",
-    "main.js": "/my-portfolio/static/js/main.78ddc191.js",
+    "main.css": "/my-portfolio/static/css/main.ed2e889f.css",
+    "main.js": "/my-portfolio/static/js/main.f1599963.js",
     "static/media/myPicture.png": "/my-portfolio/static/media/myPicture.882dcbf3ba697a525a80.png",
     "static/media/Resume_Aljon_David_N_Santos.pdf": "/my-portfolio/static/media/Resume_Aljon_David_N_Santos.3587b6493114b4aefe34.pdf",
     "static/media/my-portfolio2.png": "/my-portfolio/static/media/my-portfolio2.7f9644524e79665f4164.png",
@@ -11,11 +11,11 @@
     "static/media/me-about.jpg": "/my-portfolio/static/media/me-about.a5114b07a61494e88b50.jpg",
     "static/media/my-portfolio3.png": "/my-portfolio/static/media/my-portfolio3.baba97f1d6f1089bc29f.png",
     "index.html": "/my-portfolio/index.html",
-    "main.a01891be.css.map": "/my-portfolio/static/css/main.a01891be.css.map",
-    "main.78ddc191.js.map": "/my-portfolio/static/js/main.78ddc191.js.map"
+    "main.ed2e889f.css.map": "/my-portfolio/static/css/main.ed2e889f.css.map",
+    "main.f1599963.js.map": "/my-portfolio/static/js/main.f1599963.js.map"
   },
   "entrypoints": [
-    "static/css/main.a01891be.css",
-    "static/js/main.78ddc191.js"
+    "static/css/main.ed2e889f.css",
+    "static/js/main.f1599963.js"
   ]
 }
