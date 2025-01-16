@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.247885bd.css",
-    "main.js": "/my-portfolio/static/js/main.559f5205.js",
+    "main.js": "/my-portfolio/static/js/main.0803d4c3.js",
     "static/media/myNewPic.png": "/my-portfolio/static/media/myNewPic.065ad752222aaabcda3e.png",
     "static/media/Resume_Aljon_David_N_Santos.pdf": "/my-portfolio/static/media/Resume_Aljon_David_N_Santos.7c1948c47ebd9576cddd.pdf",
     "static/media/me-aboutNew.png": "/my-portfolio/static/media/me-aboutNew.6dbb610979b781fa8096.png",
@@ -12,10 +12,10 @@
     "static/media/my-portfolio3.png": "/my-portfolio/static/media/my-portfolio3.baba97f1d6f1089bc29f.png",
     "index.html": "/my-portfolio/index.html",
     "main.247885bd.css.map": "/my-portfolio/static/css/main.247885bd.css.map",
-    "main.559f5205.js.map": "/my-portfolio/static/js/main.559f5205.js.map"
+    "main.0803d4c3.js.map": "/my-portfolio/static/js/main.0803d4c3.js.map"
   },
   "entrypoints": [
     "static/css/main.247885bd.css",
-    "static/js/main.559f5205.js"
+    "static/js/main.0803d4c3.js"
   ]
 }
